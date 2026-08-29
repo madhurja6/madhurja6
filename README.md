@@ -3,7 +3,7 @@
 <h3 align="center">☕ Aspiring Developer | 🧠 DSA Enthusiast | ⚙️ Backend Developer | 🎓 MCA Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Code;Solving+DSA+Problems+Daily;Building+Backend+Systems+with+Java;BCA+Student+%40+University+of+Burdwan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Code;Solving+DSA+Problems+Daily;Building+Backend+Systems;MCA+Student+%40+University+of+North+Bengal" alt="Typing SVG" />
 </p>
 
 <p align="center">

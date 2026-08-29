@@ -23,8 +23,8 @@
 - 💻 Fresher aiming to build a career as a **Developer**
 - 🧩 Strong foundation in **Data Structures & Algorithms**, solving problems in patterns like sliding window, DP, and BigInteger overflow handling
 - 🏗️ Built a **Multi-Transport Ticket Booking System** — a Django-based final year project covering train, bus & plane bookings
-- 📚 Solid grounding in **Computer Networks**, **OS**, and **OOP concepts**
-- 🔭 Exploring **PHP**, **ASP.NET Core Razor**, and **Cloud Computing fundamentals**
+- 📚 Solid grounding in **DSA**, **OS**, and **OOP concepts**
+- 🔭 Exploring **Cloud Computing fundamentals**, **AI & ML**
 - 📫 Reach me at **madhurjaadak666@gmail.com**
 
 ---

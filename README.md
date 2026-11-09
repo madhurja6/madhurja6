@@ -82,7 +82,7 @@
 ### 🌱 Featured Projects
 
 **🚀 [DevPilot](https://github.com/madhurja6/devpilot)** — an AI-powered developer tool to chat with your codebase. Connect GitHub repos via OAuth, index code with RAG (pgvector embeddings), and get real-time streaming answers with file and line citations.
-`Next.js` · `TypeScript` · `Spring Boot` · `Spring AI` · `PostgreSQL` · `Google Gemini`
+`Next.js` · `TypeScript` · `Spring Boot` · `Spring AI` · `MySQL` · `Google Gemini`
 
 **🎫 [Multi-Transport Ticket Booking System](https://github.com/madhurja6/Ticket-Booking-Platform)** — a Django-based platform unifying train, bus, and plane ticket booking under one app (`mytickets`), with automated confirmation logic and a responsive UI (including a custom train animation).
 `Django` · `Python` · `SQLite`

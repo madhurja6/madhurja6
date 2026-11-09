@@ -22,21 +22,26 @@
 - 🎓 Graduated **BCA (Bachelor of Computer Application)** at the **University of Burdwan** (2022-2025)
 - 💻 Fresher aiming to build a career as a **Developer**
 - 🧩 Strong foundation in **Data Structures & Algorithms**, solving problems in patterns like sliding window, DP, and BigInteger overflow handling
+- 🏗️ Built **DevPilot** — an AI-powered tool to chat with your GitHub codebase using RAG, with Spring Boot, Next.js and Google Gemini
 - 🏗️ Built a **Multi-Transport Ticket Booking System** — a Django-based final year project covering train, bus & plane bookings
 - 📚 Solid grounding in **DSA**, **OS**, and **OOP concepts**
-- 🔭 Exploring **Cloud Computing fundamentals**, **AI & ML**
+- 🔭 Exploring **Cloud Computing fundamentals**, **AI & ML**, and **RAG**
 - 📫 Reach me at **madhurjaadak666@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack & Keywords
 
-`Java` · `C` · `C++` · `Shell Script` · `Data Structures & Algorithms` · `OOP` · `Django` · `Python` · `MySQL` · `SQLite` · `PHP` · `HTML/CSS` · `JavaScript` · `React` · `Bootstrap` · `Tailwind CSS` · `Git` · `Docker` · `ASP.NET Core`
+`Java` · `C` · `C++` · `Shell Script` · `Data Structures & Algorithms` · `OOP` · `Spring Boot` · `Spring AI` · `Next.js` · `TypeScript` · `PostgreSQL` · `Django` · `Python` · `MySQL` · `SQLite` · `PHP` · `HTML/CSS` · `JavaScript` · `React` · `Bootstrap` · `Tailwind CSS` · `Git` · `Docker` · `ASP.NET Core`
 
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
@@ -74,9 +79,13 @@
 
 ---
 
-### 🌱 Featured Project
+### 🌱 Featured Projects
 
-**Multi-Transport Ticket Booking System** — a Django-based platform unifying train, bus, and plane ticket booking under one app (`mytickets`), with automated confirmation logic and a responsive UI (including a custom train animation).
+**🚀 [DevPilot](https://github.com/madhurja6/devpilot)** — an AI-powered developer tool to chat with your codebase. Connect GitHub repos via OAuth, index code with RAG (pgvector embeddings), and get real-time streaming answers with file and line citations.
+`Next.js` · `TypeScript` · `Spring Boot` · `Spring AI` · `PostgreSQL` · `Google Gemini`
+
+**🎫 Multi-Transport Ticket Booking System** — a Django-based platform unifying train, bus, and plane ticket booking under one app (`mytickets`), with automated confirmation logic and a responsive UI (including a custom train animation).
+`Django` · `Python` · `SQLite`
 
 ---
 
